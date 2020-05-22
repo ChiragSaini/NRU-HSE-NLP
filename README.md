@@ -6,4 +6,5 @@ Solutions to Programming Assignments of Coursera's Natural Language Processing C
 <ul>
   <li>Week 1: 4th May</li>
   <li>Week 2: 9th May</li>
+  <li>Week 3 22nd May</li>
 </ul>
